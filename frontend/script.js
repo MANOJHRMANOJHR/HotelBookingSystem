@@ -1,3 +1,4 @@
+ 
 document.addEventListener('DOMContentLoaded', () => {
     const cancelBookingForm = document.getElementById('cancel-booking-form');
     const cancelRoomNumberSelect = document.getElementById('cancelRoomNumber');
