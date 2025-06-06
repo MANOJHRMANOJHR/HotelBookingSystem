@@ -1,4 +1,4 @@
- 
+const BACKEND = "https://hotelbookingsystem-szsz.onrender.com"; // Adjust the backend URL as needed
 document.addEventListener('DOMContentLoaded', () => {
     const cancelBookingForm = document.getElementById('cancel-booking-form');
     const cancelRoomNumberSelect = document.getElementById('cancelRoomNumber');
